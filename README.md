@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sijan67
-- 👀 I’m interested in ... startups, machine learning , AI
+- 👀 I’m interested in ... software development, startups, machine learning , AI
 - 🌱 I’m currently learning ... deep learning, machine learning , project design course at UBC
 - 💞️ I’m looking to collaborate on ... any cool project ideas
 
