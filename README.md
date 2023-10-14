@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sijan67
 - 👀 I’m interested in ... software development, startups, machine learning , AI
-- 🌱 I’m currently learning ... new venture design, computer graphics, cybersecurity course at UBC
+- 🌱 I’m currently learning ... new venture design, computer graphics, HCI and cybersecurity course at UBC
 - 💞️ I’m looking to collaborate on ... any cool project ideas
 
 <!---
