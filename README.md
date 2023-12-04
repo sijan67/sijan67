@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sijan67
+- 👋 Hi, I’m Sijan Poudel, fourth year Computer Engineering from University of British Columbia
 - 👀 I’m interested in ... HCI, software development, startups, machine learning , AI
 - 🌱 I’m currently learning ... new venture design, computer graphics, HCI and cybersecurity course at UBC
 - 💞️ I’m looking to collaborate on ... any cool project ideas
