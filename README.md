@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sijan Poudel, fourth year Computer Engineering student from University of British Columbia (UBC)
+- 👋 Hi, I’m Sijan Poudel, Computer Engineering graduate from University of British Columbia (UBC)
 - 👀 I’m interested in ... HCI, software development, startups, machine learning , AI
-- 🌱 I’m currently learning ... new venture design, computer graphics, HCI and cybersecurity course at UBC
 - 💞️ I’m looking to collaborate on ... any cool project ideas
 
 <!---
